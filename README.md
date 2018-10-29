@@ -1,7 +1,5 @@
 # Krystian Kowal
 
-<img src="./me.png" style="width: 200px; float: right; margin: 10px 0 0 20px;" />
-
 ### Web Developer
 
 `JavaScript` `ReactJS` `NodeJS` `HTML5` `CSS3` `REST` `SQL` `Git` `Webpack` `Scrum` `Linux`
