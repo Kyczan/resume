@@ -19,7 +19,7 @@ I like to create web applications especially with new technologies. I am an expe
 - #### Sep 2018 - now | Experis
 
   **Role:** Frontend Developer (b2b) (Consultant in big bank)  
-  **Responsibilities:** Creating web apps using ReactJS; introduce responsiveness to existing web apps; create and maintain custom React components library
+  **Responsibilities:** Creating web apps using ReactJS; introduce responsiveness to existing web apps; create and maintain custom React components library  
   **Technologies:** `JavaScript` `ReactJS` `HTML5` `CSS3` `SemanticUI` `Webpack` `Git` `npm` `Scrum`
 
 - #### Oct 2016 - Sep 2018 | Experis
