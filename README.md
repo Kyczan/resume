@@ -19,7 +19,7 @@ I like to create web applications especially with new technologies. I am an expe
 - #### Sep 2018 - now | Experis
 
   **Role:** Frontend Developer (b2b) (Consultant in big bank)  
-  **Responsibilities:** Create web applications  
+  **Responsibilities:** Creating web apps using ReactJS; introduce responsiveness to existing web apps; create and maintain custom React components library
   **Technologies:** `JavaScript` `ReactJS` `HTML5` `CSS3` `SemanticUI` `Webpack` `Git` `npm` `Scrum`
 
 - #### Oct 2016 - Sep 2018 | Experis
@@ -36,7 +36,7 @@ I like to create web applications especially with new technologies. I am an expe
 
 - #### Mar 2011 - Oct 2015 | Towarzystwo Ubezpieczeń Europa
 
-  **Role:** Senior Analyst Programmer in IT Department  
+  **Role:** Junior -> Regular -> Senior Analyst Programmer in IT Department  
   **Responsibilities:** analyzing insurance contracts; preparing system for policies from new insurance products; manipulating big data, creating data importing procedures; making SQL queries pulling out data for reports; developing local web SPA applications; making reports  
   **Technologies:** `PLSQL` `Oracle` `XML` `jQuery` `AJAX` `JasperReports` `Groovy` `AngularJS` `PHP` `MySQL` `Excel` `VBA`
 
