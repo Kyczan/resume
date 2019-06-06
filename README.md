@@ -63,7 +63,7 @@ I like to create web applications especially with new technologies. I am an expe
 ### Hobbies
 
 - Creating small useful (for me) web apps
-- Ricing my Void Linux
+- Ricing my Arch Linux
 - Rollerblading
 - Dart
 
