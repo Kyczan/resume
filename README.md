@@ -1,6 +1,6 @@
-# Krystian Kowal
-
 <img align="right" width="150" src="./me.png">
+
+# Krystian Kowal
 
 ## JavaScript Developer
 
