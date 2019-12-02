@@ -1,5 +1,7 @@
 # Krystian Kowal
 
+<img align="right" width="150" src="./me.png">
+
 ## JavaScript Developer
 
 `JavaScript` `ReactJS` `Redux` `NodeJS` `HTML5` `CSS3` `REST` `SQL` `Git` `Webpack` `Scrum` `Linux`
