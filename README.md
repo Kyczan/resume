@@ -2,11 +2,11 @@
 
 # Krystian Kowal
 
-## JavaScript Developer
+## IT Software Developer
 
-`JavaScript` `ReactJS` `Redux` `NodeJS` `HTML5` `CSS3` `REST` `SQL` `Git` `Webpack` `Scrum` `Linux`
+`JavaScript` `ReactJS` `Redux` `NodeJS` `HTML5` `CSS3` `REST` `SQL` `PLSQL` `Git` `Webpack` `Scrum` `Linux`
 
-I like to create web applications especially with new technologies. I am an expert in frontend but I also have strong knowledge in backend. My strengths are analytical thinking and problem solving. In addition I have the ability to teach and to transfer knowledge.
+I like to create web applications especially with new technologies. I am an expert in frontend but I also have strong knowledge in backend. My strengths are analytical thinking and problem solving. In free time I like to learn about new technologies and innovations, for example Machine Learning.
 
 ## Personal data
 
@@ -45,7 +45,7 @@ I like to create web applications especially with new technologies. I am an expe
 - ### Mar 2011 - Oct 2015 | Towarzystwo Ubezpieczeń Europa
 
   **Role:** Junior -> Regular -> Senior Analyst Programmer in IT Department  
-  **Responsibilities:** analyzing insurance contracts; preparing system for policies from new insurance products; manipulating big data creating data importing procedures; making SQL queries pulling out data for reports; developing local web SPA applications; making reports  
+  **Responsibilities:** analyzing insurance contracts; preparing system for policies from new insurance products; manipulating big data using Oracle PLSQL; creating data importing procedures; making SQL queries pulling out data for reports; developing local web SPA applications; making reports  
   **Technologies:** `PLSQL` `Oracle` `XML` `jQuery` `AJAX` `JasperReports` `Groovy` `AngularJS` `PHP` `MySQL` `Excel` `VBA`
 
 - ### Jun 2010 - Aug 2010 | BZ WBK
@@ -73,6 +73,6 @@ I like to create web applications especially with new technologies. I am an expe
 - Creating small useful (for me) web apps
 - Ricing my Arch Linux
 - Rollerblading
-- Dart
+- Making plastic models and creating dioramas
 
 > I hereby agree to the processing of my personal details included in this document due to the recruitment process. I agree voluntarily and I declare that I was informed of my rights vested on me pursuant to the Personal Data Protection Act of 29 August 1997 (Journal of Laws.02.101.926.j.t.).
